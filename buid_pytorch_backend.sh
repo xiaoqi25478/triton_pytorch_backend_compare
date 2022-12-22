@@ -1,6 +1,6 @@
 set -ex
 
-cd buid_pytorch_backend/
+cd pytorch_backend/
 mkdir -p build
 cd build
 
