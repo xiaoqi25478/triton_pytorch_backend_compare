@@ -1,2 +1,2 @@
-# tytion_pytorch_backend_compare
+# triton_pytorch_backend_compare
 NVIDIA Triton框架下python backend与pytorch backend性能比较
